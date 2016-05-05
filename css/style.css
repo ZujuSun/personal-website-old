@@ -143,11 +143,11 @@ border-color:#fff;
 
 /* ==============================================================  Menu ======================================================= */
 .main-nav{
-position:fixed;
-top:0;
+position:relative;
+top:auto;
 display:none;
 width: 100%;
-min-height: 54px;
+min-height: 0px;
 z-index:99;
 }
 
